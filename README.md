@@ -5,5 +5,7 @@ This game is created as my very first Java program, this program also meant to b
 
 ## Other Information
 Created on: 16/06/2023
+<br/>
 Uploaded to Github on: 23/06/2023
+<br/>
 Author: CreativeGopnik
